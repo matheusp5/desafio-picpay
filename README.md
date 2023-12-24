@@ -3,7 +3,7 @@
 Repositório que contém uma solução para o desafio proposto no teste técnico para vaga de desenvolvedor Back-End do PicPay (possível encontrar no tal repositório: <a href='https://github.com/PicPay/picpay-desafio-backend'>https://github.com/PicPay/picpay-desafio-backend</a>)
 
 ## DESAFIO NÃO OFICIAL!
-A resolução do problema proposto pelo PicPay não é oficial a esse repositório, sendo desenvolvido por mim apenas para "treinar" e consolidar conhecimentos de Java, sem querer aplicar a uma vaga real. 
+A resolução do problema proposto pelo PicPay não é oficial a esse repositório, sendo desenvolvido por mim apenas para "treinar" e consolidar conhecimentos de Java, sem querer aplicar a uma vaga real. Por ser um desafio não-oficial, não me preocupei com algumas coisas, como: commits organizados, em inglês e seguindo padrões.
 
 ## Especificações/implementações
 O sistema consta com algumas implementações adicionais que não foram requisitadas no repositório do desafio.
