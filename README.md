@@ -6,6 +6,7 @@ Repositório que contém uma solução para o desafio proposto no teste técnico
 A resolução do problema proposto pelo PicPay não é oficial a esse repositório, sendo desenvolvido por mim apenas para "treinar" e consolidar conhecimentos de Java, sem querer aplicar a uma vaga real. Por ser um desafio não-oficial, não me preocupei com algumas coisas, como: commits organizados, em inglês e seguindo padrões.
 
 ## Especificações/implementações
+<b>Para o desenvolvimento, foi utilizado a linguagem de programação Java juntamente com o framework Spring Boot </b><br>
 O sistema consta com algumas implementações adicionais que não foram requisitadas no repositório do desafio.
 
 - JWT para autenticação
